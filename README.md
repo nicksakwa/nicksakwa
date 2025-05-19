@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me:
 
-I'm currently working on [Data Science and Machine learning modules with Python and JavaScript]. I have a strong interest in [web and mobile app development, data science, machine learning and cyber security]. [Optional: Add a brief personal touch or a key skill]. I started coding at a professional level in [2017] and am now a [seasoned software developer].
+I'm currently working on Data Science and Machine learning modules with Python and JavaScript. I am strongly interested in web and mobile app development, data science, machine learning and cybersecurity. I started coding at a professional level in 2017 and am now a seasoned software developer.
 
 ## 🔗 Socials:
 
