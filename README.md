@@ -4,7 +4,7 @@
 
   <h3 align="center">Nick Sakwa</h3>
   <p align="center">
-    Name it , I will create it  (IT & Digital Developer)
+    (IT & Digital Developer)
   </p>
 </p>
 
