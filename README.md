@@ -81,13 +81,13 @@ I'm currently working on data science and machine learning modules with Python a
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nickspartan01&show_icons=true&theme=dark" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="Your GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickspartan01&theme=dark" alt="Your GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickspartan 01&layout=compact&theme=dark" alt="Top Languages" />
 </p>
