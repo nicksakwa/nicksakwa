@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="YOUR_PROFILE_PICTURE_URL" alt="Your Profile Picture" width="150" height="150" style="border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/u/20555168?v=4&size=64" alt="Your Profile Picture" width="150" height="150" style="border-radius: 50%;">
   </a>
 
   <h3 align="center">Nick Sakwa</h3>
