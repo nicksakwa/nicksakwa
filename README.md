@@ -4,13 +4,13 @@
 
   <h3 align="center">Nick Sakwa</h3>
   <p align="center">
-    (IT & Digital Developer)
+    IT & Digital Developer
   </p>
 </p>
 
 ## 🙋‍♂️ About Me:
 
-I'm currently working on Data Science and Machine learning modules with Python and JavaScript. I am strongly interested in web and mobile app development, data science, machine learning and cybersecurity. I started coding at a professional level in 2017 and am now a seasoned software developer.
+I'm currently working on data science and machine learning modules with Python and JavaScript. I am strongly interested in web and mobile app development, data science, machine learning and cybersecurity. I started coding at a professional level in 2017 and hold a Bachelors Degree in Computer Science from Makerere University.
 
 ## 🔗 Socials:
 
