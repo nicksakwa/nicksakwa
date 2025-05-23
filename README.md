@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
   </a>
-
   <h3 align="center">Nick Sakwa</h3>
   <p align="center">
     IT & Digital Developer
