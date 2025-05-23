@@ -6,13 +6,9 @@
     IT & Digital Developer
   </p>
 </p>
-
 ## 🙋‍♂️ About Me:
-
 I'm currently working on data science and machine learning modules with Python and JavaScript. I am strongly interested in web and mobile app development, data science, machine learning and cybersecurity. I started coding at a professional level in 2017 and hold a Bachelors Degree in Computer Science from Makerere University.
-
 ## 🔗 Socials:
-
 <p align="left">
   <a href="https://www.facebook.com/nick.sakwa" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
@@ -33,9 +29,7 @@ I'm currently working on data science and machine learning modules with Python a
     <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
 ## 🛠️ Tech Stack:
-
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
