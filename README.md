@@ -8,6 +8,7 @@
 </p>
 ## 🙋‍♂️ About Me:
 I'm currently working on data science and machine learning modules with Python and JavaScript. I am strongly interested in web and mobile app development, data science, machine learning and cybersecurity. I started coding at a professional level in 2017 and hold a Bachelors Degree in Computer Science from Makerere University.
+
 ## 🔗 Socials:
 <p align="left">
   <a href="https://www.facebook.com/nick.sakwa" target="_blank">
