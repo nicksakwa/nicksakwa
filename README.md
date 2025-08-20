@@ -11,13 +11,7 @@
 
 ## 🔗 Socials:
 <p align="left">
-  <a href="https://www.facebook.com/nick.sakwa" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/nickspartan01/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nick-sakwa-303a98146/" target="_blank">
+   <a href="https://www.linkedin.com/in/nick-sakwa-303a98146/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="YOUR_STACKOVERFLOW_URL" target="_blank">
@@ -26,7 +20,7 @@
   <a href="https://x.com/nickspartan01" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.youtube.com/@TechProximity01" target="_blank">
+  <a href="https://www.youtube.com/@DigitalProximity01" target="_blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
