@@ -7,7 +7,7 @@
   </p>
 </p>
 🙋🏽‍♂️About Me:
-<p>I develop Data Science and machine learning models, as well as web and mobile apps, with experience in cloud maintenance and cybersecurity. I started software development at a professional level in 2017 and hold a Bachelor's Degree in Computer Science from Makerere University.</p>
+<p>I am a full-stack developer with an interest in data science & analytics, and AI development. I have 9 years of experience delivering secure, optimized solutions via web, mobile apps, cloud & data environments. I started software development at a professional level in 2017 and hold a Bachelor's Degree in Computer Science from Makerere University.</p>
 
 ## 🔗 Socials:
 <p align="left">
